@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b811251e.chunk.css",
+    "main.js": "/static/js/main.a8977cd9.chunk.js",
+    "main.js.map": "/static/js/main.a8977cd9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f4271a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f4271a1.js.map",
+    "static/js/2.c6f3d00a.chunk.js": "/static/js/2.c6f3d00a.chunk.js",
+    "static/js/2.c6f3d00a.chunk.js.map": "/static/js/2.c6f3d00a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.934c0cea24e1d4b5c4c636abd90c3779.js": "/precache-manifest.934c0cea24e1d4b5c4c636abd90c3779.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b811251e.chunk.css.map": "/static/css/main.b811251e.chunk.css.map",
+    "static/js/2.c6f3d00a.chunk.js.LICENSE.txt": "/static/js/2.c6f3d00a.chunk.js.LICENSE.txt",
+    "static/media/bundesliga.png": "/static/media/bundesliga.774797ac.png",
+    "static/media/laliga.png": "/static/media/laliga.c3456072.png",
+    "static/media/newLigue1.png": "/static/media/newLigue1.09b84628.png",
+    "static/media/premierleague.png": "/static/media/premierleague.661ada86.png",
+    "static/media/serieA.png": "/static/media/serieA.63a47c3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f4271a1.js",
+    "static/js/2.c6f3d00a.chunk.js",
+    "static/css/main.b811251e.chunk.css",
+    "static/js/main.a8977cd9.chunk.js"
+  ]
+}
